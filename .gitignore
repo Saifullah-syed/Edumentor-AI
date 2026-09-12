@@ -1,0 +1,16 @@
+node_modules
+dist
+dist-ssr
+build
+.env
+.env.*
+!.env.example
+*.db
+*.db-journal
+*.log
+.DS_Store
+powershell.cmd
+__pycache__
+*.pyc
+.vscode
+.idea
